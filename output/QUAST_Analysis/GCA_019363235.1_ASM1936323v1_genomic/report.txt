@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    GCA_019363235.1_ASM1936323v1_genomic
+# contigs (>= 0 bp)         195                                 
+# contigs (>= 1000 bp)      54                                  
+# contigs (>= 5000 bp)      42                                  
+# contigs (>= 10000 bp)     39                                  
+# contigs (>= 25000 bp)     28                                  
+# contigs (>= 50000 bp)     25                                  
+Total length (>= 0 bp)      4987887                             
+Total length (>= 1000 bp)   4942201                             
+Total length (>= 5000 bp)   4917237                             
+Total length (>= 10000 bp)  4897320                             
+Total length (>= 25000 bp)  4704556                             
+Total length (>= 50000 bp)  4582140                             
+# contigs                   67                                  
+Largest contig              519518                              
+Total length                4951725                             
+GC (%)                      52.20                               
+N50                         305670                              
+N90                         56193                               
+auN                         273924.8                            
+L50                         6                                   
+L90                         23                                  
+# N's per 100 kbp           0.20                                

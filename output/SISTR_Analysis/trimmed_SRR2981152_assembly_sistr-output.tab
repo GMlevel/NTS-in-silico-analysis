@@ -1,0 +1,2 @@
+SRR2981152	SRR2981152	SRR2981152	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2981152	SRR2981152	SRR2981152	2075694896	0.027272727272727226	330	SRR1966915	321	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2981152_assembly/contigs.fasta	contigs	d	l,w	6,7,14	INFO: Number of cgMLST330 loci found (n=330)	PASS	C1	Livingstone	Livingstone|Wil	Livingstone

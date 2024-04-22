@@ -1,0 +1,2 @@
+SRR10502163	SRR10502163	SRR10502163	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR10502163	SRR10502163	SRR10502163	3057925928	0.042424242424242475	330	SRR1969594	316	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR10502163_assembly/contigs.fasta	contigs	e,h	1,2	6,8,20	INFO: Number of cgMLST330 loci found (n=330)	PASS	C2-C3	Newport	Newport|Bardo|Ferruch|Kottbus	Newport

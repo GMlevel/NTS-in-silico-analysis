@@ -1,0 +1,2 @@
+SRR2847943	SRR2847943	SRR2847943	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2847943	SRR2847943	SRR2847943	51487435	0.030303030303030276	330	SRR1048316	320	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2847943_assembly/contigs.fasta	contigs	c	1,5	1,6,14,25	INFO: Number of cgMLST330 loci found (n=330)	PASS	H	Blijdorp	Blijdorp	Blijdorp

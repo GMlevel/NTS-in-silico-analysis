@@ -1,0 +1,2 @@
+SRR2163247	SRR2163247	SRR2163247	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2163247	SRR2163247	SRR2163247	1882166350	0.030303030303030276	330	SRR1959236	320	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2163247_assembly/contigs.fasta	contigs	r	1,2	1,4,[5],12	INFO: Number of cgMLST330 loci found (n=330)	PASS	B	Heidelberg	Heidelberg|Bradford	Heidelberg

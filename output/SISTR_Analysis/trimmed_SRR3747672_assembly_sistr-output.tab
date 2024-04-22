@@ -1,0 +1,2 @@
+SRR3747672	SRR3747672	SRR3747672	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR3747672	SRR3747672	SRR3747672	1979528696	0.015151515151515138	330	SRR3747672	325	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR3747672_assembly/contigs.fasta	contigs	d	e,n,x	11	INFO: Number of cgMLST330 loci found (n=330)	PASS	F	Chandans	Amersfoort|Gombe|Chandans	Chandans

@@ -1,0 +1,2 @@
+SRR15369287	SRR15369287	SRR15369287	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR15369287	SRR15369287	SRR15369287	1977337042	0.039393939393939426	330	ERR422671	317	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR15369287_assembly/contigs.fasta	contigs	d	-	9,12[Vi]	INFO: Number of cgMLST330 loci found (n=330)	PASS	D1	Typhi	Typhi	Typhi

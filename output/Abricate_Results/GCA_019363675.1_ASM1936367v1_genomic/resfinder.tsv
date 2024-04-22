@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	8558	8664	catB4_1	443-549/549	............===	0/0	19.49	100.00	resfinder	EU935739
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	8955	10184	mef(B)_1	1-1230/1230	===============	0/0	100.00	99.92	resfinder	FJ196385
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	11945	12736	sul3_2	1-792/792	===============	0/0	100.00	100.00	resfinder	AJ459418
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	14418	15219	aadA1_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	15302	16561	cmlA1_1	1-1260/1260	===============	0/0	100.00	99.92	resfinder	M64556
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	16823	17614	aadA2_2	1-792/792	===============	0/0	100.00	99.87	resfinder	JQ364967
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	18022	18519	dfrA12_1	1-498/498	===============	0/0	100.00	100.00	resfinder	AB571791
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000022.1	18516	18691	aadA1_1	1-184/972	===...../......	4/8	18.11	94.56	resfinder	X02340
+/scratch/mnk5428/kenyans/data/GCA_019363675.1_ASM1936367v1_genomic.fna	JAAIDG010000042.1	1181	2380	tet(A)_4	1-1200/1200	===============	0/0	100.00	100.00	resfinder	AJ517790

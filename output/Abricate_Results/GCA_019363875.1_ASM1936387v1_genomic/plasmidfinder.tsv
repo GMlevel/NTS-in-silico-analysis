@@ -1,0 +1,14 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000009.1	84595	85224	IncHI2A_1	1-630/630	===============	0/0	100.00	100.00	plasmidfinder	BX664015
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000009.1	98878	99472	TrfA_1	2-596/596	========/======	2/2	99.66	80.37	plasmidfinder	CP11611
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000009.1	100090	100416	IncHI2_1	1-327/327	===============	0/0	100.00	100.00	plasmidfinder	BX664015
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000017.1	58318	58611	IncFIC(FII)_1	9-297/499	========/=.....	5/7	57.72	81.69	plasmidfinder	AP001918
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000017.1	58362	58623	IncFII(S)_1	1-262/262	===============	0/0	100.00	100.00	plasmidfinder	CP000858
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000017.1	73684	74326	IncFIB(S)_1	1-643/643	===============	0/0	100.00	100.00	plasmidfinder	FN432031
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000051.1	4087	4536	IncQ1_1	1-450/450	===============	0/0	100.00	100.00	plasmidfinder	HE654726
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000062.1	491	621	ColRNAI_1	1-130/130	========/======	1/1	100.00	84.73	plasmidfinder	DQ298019
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000207.1	137	248	ColRNAI_1	1-112/130	=============..	0/0	86.15	85.71	plasmidfinder	DQ298019
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000239.1	56	173	ColRNAI_1	15-130/130	.=======/======	2/2	89.23	78.81	plasmidfinder	DQ298019
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000314.1	43	173	ColRNAI_1	1-130/130	========/======	1/1	100.00	83.97	plasmidfinder	DQ298019
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000316.1	83	205	ColRNAI_1	8-130/130	========/======	2/2	93.85	79.03	plasmidfinder	DQ298019
+/scratch/mnk5428/kenyans/data/GCA_019363875.1_ASM1936387v1_genomic.fna	JAAIEZ010000318.1	74	205	ColRNAI_1	1-130/130	========/======	2/2	100.00	84.09	plasmidfinder	DQ298019

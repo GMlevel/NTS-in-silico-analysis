@@ -1,0 +1,2 @@
+SRR2847940	SRR2847940	SRR2847940	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2847940	SRR2847940	SRR2847940	1475970945	0.024242424242424288	330	SRR1966402	322	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2847940_assembly/contigs.fasta	contigs	i	z6	8,20	INFO: Number of cgMLST330 loci found (n=330)	PASS	C2-C3	Kentucky	Kentucky	Kentucky

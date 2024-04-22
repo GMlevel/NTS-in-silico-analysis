@@ -1,0 +1,2 @@
+SRR3747653	SRR3747653	SRR3747653	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR3747653	SRR3747653	SRR3747653	3777835145	0.00303030303030305	330	SRR3747653	329	salamae	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR3747653_assembly/contigs.fasta	contigs	b	e,n,x,z15	42	INFO: Number of cgMLST330 loci found (n=330)	PASS	T	II 42:b:e,n,x,z15	II 42:b:e,n,x,z15	II 42:b:e,n,x,z15

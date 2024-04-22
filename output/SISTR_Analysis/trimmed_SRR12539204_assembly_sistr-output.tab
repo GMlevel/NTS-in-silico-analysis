@@ -1,0 +1,2 @@
+SRR12539204	SRR12539204	SRR12539204	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR12539204	SRR12539204	SRR12539204	3833084667	0.027272727272727226	330	ERR1556102	321	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR12539204_assembly/contigs.fasta	contigs	i	1,2	1,4,[5],12	INFO: Number of cgMLST330 loci found (n=330)	PASS	B	Typhimurium	Typhimurium|Lagos	Typhimurium

@@ -1,0 +1,2 @@
+SRR2981145	SRR2981145	SRR2981145	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2981145	SRR2981145	SRR2981145	1354652090	0.045454545454545414	330	SRR1966474	315	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2981145_assembly/contigs.fasta	contigs	i	1,2	1,4,[5],12	INFO: Number of cgMLST330 loci found (n=330)	PASS	B	Typhimurium	Typhimurium|Lagos	Typhimurium

@@ -1,0 +1,23 @@
+Assembly	GCA_019363655.1_ASM1936365v1_genomic
+# contigs (>= 0 bp)	108
+# contigs (>= 1000 bp)	21
+# contigs (>= 5000 bp)	14
+# contigs (>= 10000 bp)	13
+# contigs (>= 25000 bp)	13
+# contigs (>= 50000 bp)	11
+Total length (>= 0 bp)	4743492
+Total length (>= 1000 bp)	4708703
+Total length (>= 5000 bp)	4695891
+Total length (>= 10000 bp)	4689762
+Total length (>= 25000 bp)	4689762
+Total length (>= 50000 bp)	4605750
+# contigs	24
+Largest contig	1549860
+Total length	4710392
+GC (%)	52.12
+N50	491352
+N90	153358
+auN	793169.2
+L50	3
+L90	8
+# N's per 100 kbp	2.51

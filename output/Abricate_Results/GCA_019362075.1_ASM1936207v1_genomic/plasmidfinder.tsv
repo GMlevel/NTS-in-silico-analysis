@@ -1,0 +1,9 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000010.1	57736	58365	IncHI2A_1	1-630/630	===============	0/0	100.00	100.00	plasmidfinder	BX664015
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000010.1	72019	72613	TrfA_1	2-596/596	========/======	2/2	99.66	80.37	plasmidfinder	CP11611
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000010.1	73231	73557	IncHI2_1	1-327/327	===============	0/0	100.00	100.00	plasmidfinder	BX664015
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000017.1	58318	58611	IncFIC(FII)_1	9-297/499	========/=.....	5/7	57.72	81.69	plasmidfinder	AP001918
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000017.1	58362	58623	IncFII(S)_1	1-262/262	===============	0/0	100.00	100.00	plasmidfinder	CP000858
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000017.1	73684	74326	IncFIB(S)_1	1-643/643	===============	0/0	100.00	100.00	plasmidfinder	FN432031
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000038.1	200	649	IncQ1_1	1-450/450	===============	0/0	100.00	100.00	plasmidfinder	HE654726
+/scratch/mnk5428/kenyans/data/GCA_019362075.1_ASM1936207v1_genomic.fna	JAAIAC010000041.1	1537	1667	ColRNAI_1	1-130/130	========/======	1/1	100.00	84.73	plasmidfinder	DQ298019

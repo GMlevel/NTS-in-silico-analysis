@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000028.1	1099	2270	tet(A)_4	1-1172/1200	===============	0/0	97.67	100.00	resfinder	AJ517790
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000028.1	5649	6464	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	GQ421466
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000028.1	6525	7328	strA_4	1-804/804	===============	0/0	100.00	100.00	resfinder	AF321551
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000028.1	7328	8164	strB_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M96392
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000049.1	1	418	strA_4	116-533/804	..========.....	0/0	51.99	98.80	resfinder	AF321551
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000054.1	1	320	strA_1	484-803/804	.........======	0/0	39.80	95.62	resfinder	M96392
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000054.1	322	392	strB_1	2-72/837	==.............	0/0	8.48	94.37	resfinder	M96392
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000058.1	6	247	strA_2	1-242/804	=====..........	0/0	30.10	97.11	resfinder	M28829
+/scratch/mnk5428/kenyans/data/GCA_019361855.1_ASM1936185v1_genomic.fna	JAAHZV010000058.1	308	389	sul2_1	735-816/816	.............==	0/0	10.05	100.00	resfinder	AF542061

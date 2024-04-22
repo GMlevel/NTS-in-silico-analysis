@@ -1,0 +1,14 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000015.1	93935	94041	catB4_1	443-549/549	............===	0/0	19.49	100.00	resfinder	EU935739
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	3312	3971	catA1_1	1-660/660	===============	0/0	100.00	99.85	resfinder	V00622
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	10044	10970	sul1_2	1-927/927	===============	0/0	100.00	100.00	resfinder	CP002151
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	11388	12189	aadA1_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	12272	12745	dfrA1_30	1-474/474	===============	0/0	100.00	100.00	resfinder	JQ690541
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	12762	12929	aadA1_1	1-175/972	===...../......	3/7	17.28	96.00	resfinder	X02340
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	13992	14828	strB_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M96392
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	14828	15631	strA_4	1-804/804	===============	0/0	100.00	100.00	resfinder	AF321551
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000030.1	15692	16507	sul2_3	1-816/816	===============	0/0	100.00	100.00	resfinder	HQ840942
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000035.1	2741	2847	catB4_1	443-549/549	............===	0/0	19.49	100.00	resfinder	EU935739
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000037.1	649	1509	blaTEM-1B_1	1-861/861	===============	0/0	100.00	100.00	resfinder	JF910132
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000049.1	1	107	catB4_1	443-549/549	............===	0/0	19.49	100.00	resfinder	EU935739
+/scratch/mnk5428/kenyans/data/GCA_019362795.1_ASM1936279v1_genomic.fna	JAAIBK010000050.1	21	127	catB4_1	443-549/549	............===	0/0	19.49	100.00	resfinder	EU935739

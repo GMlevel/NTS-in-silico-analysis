@@ -1,0 +1,2 @@
+SRR4123986	SRR4123986	SRR4123986	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR4123986	SRR4123986	SRR4123986	700609528	0.027272727272727226	330	SRR1958160	321	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR4123986_assembly/contigs.fasta	contigs	z10	e,n,z15	6,7,14	INFO: Number of cgMLST330 loci found (n=330)	PASS	C1	Mbandaka	Djugu|Mbandaka|Telhashomer	Mbandaka

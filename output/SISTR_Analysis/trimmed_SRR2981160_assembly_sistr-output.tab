@@ -1,0 +1,2 @@
+SRR2981160	SRR2981160	SRR2981160	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2981160	SRR2981160	SRR2981160	2794710574	0.018181818181818188	330	SRR1960756	324	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2981160_assembly/contigs.fasta	contigs	z4,z23	-	1,4,[5],12,[27]	INFO: Number of cgMLST330 loci found (n=330)	PASS	B	Stanleyville	Stanleyville	Stanleyville

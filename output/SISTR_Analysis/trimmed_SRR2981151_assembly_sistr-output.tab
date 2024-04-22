@@ -1,0 +1,2 @@
+SRR2981151	SRR2981151	SRR2981151	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2981151	SRR2981151	SRR2981151	1793468398	0.039393939393939426	330	SRR1969553	317	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2981151_assembly/contigs.fasta	contigs	r	1,5	6,7,14	INFO: Number of cgMLST330 loci found (n=330)	PASS	C1	Infantis	Virchow|Infantis|Senegal	Infantis

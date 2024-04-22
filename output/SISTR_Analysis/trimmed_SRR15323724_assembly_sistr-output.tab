@@ -1,0 +1,2 @@
+SRR15323724	SRR15323724	SRR15323724	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR15323724	SRR15323724	SRR15323724	1058444666	0.042424242424242475	330	ERR108693	316	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR15323724_assembly/contigs.fasta	contigs	d	-	9,12[Vi]	INFO: Number of cgMLST330 loci found (n=330)	PASS	D1	Typhi	Typhi	Typhi

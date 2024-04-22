@@ -1,0 +1,2 @@
+SRR2163246	SRR2163246	SRR2163246	cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+SRR2163246	SRR2163246	SRR2163246	3725096478	0.012121212121212088	330	SRR2534090	326	enterica	/scratch/mnk5428/Kenyan/All_SPAdes_Assembly/trimmed_SRR2163246_assembly/contigs.fasta	contigs	d	1,2	6,8	INFO: Number of cgMLST330 loci found (n=330)	PASS	C2-C3	Muenchen	Muenchen|Virginia|Manhattan|Yovokome	Muenchen
